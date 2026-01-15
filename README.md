@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-#### Featured Repositories:
+### Featured Repositories:
 
 EcoMind - Software Engineering Group Project - [Link](https://github.com/khelifiMohamedYacine/Group-project)
 
@@ -8,7 +8,7 @@ Genetic Algorithm Optimisation Program - [Link](https://github.com/DM7935-GH/Gen
 
 Data Structures & Algorithms Repo - [Link](https://github.com/DM7935-GH/Data-Structures-and-Algorithms-Repo)
 
-#### Other Links:
+### Other Links:
 
 Crawler - Unity Engine 2D Game - [Early Demo Video](https://drive.google.com/file/d/1br7Rn81MVKzu0doFOrbjQZS0IEHiIA54/view?usp=sharing)
 
