@@ -2,6 +2,8 @@
 
 ### Featured Repositories:
 
+Wikipedia Representation Analysis Project - [Link](https://github.com/DM7935-GH/Wikipedia_Representation_Analysis_Project)
+
 EcoMind - Software Engineering Group Project - [Link](https://github.com/khelifiMohamedYacine/Group-project)
 
 Genetic Algorithm Optimisation Program - [Link](https://github.com/DM7935-GH/Genetic-Algorithm-Project)
