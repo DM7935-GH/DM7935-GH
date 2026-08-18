@@ -12,7 +12,7 @@
 
 ### Other Links:
 
-Crawler - Unity Engine 2D Game - [Early Demo Video](https://drive.google.com/file/d/1br7Rn81MVKzu0doFOrbjQZS0IEHiIA54/view?usp=sharing)
+**Crawler - Unity Engine 2D Game** - [Early Demo Video](https://drive.google.com/file/d/1br7Rn81MVKzu0doFOrbjQZS0IEHiIA54/view?usp=sharing)
 
 <!--
 **DM7935-GH/DM7935-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
